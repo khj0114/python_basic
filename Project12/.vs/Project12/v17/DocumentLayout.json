@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673EE679-6B6D-4153-894A-09C08DEA077A}|Project12\\Project12.vcxproj|C:\\Users\\admin\\source\\repos\\Project12\\Project12\\test12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{673EE679-6B6D-4153-894A-09C08DEA077A}|Project12\\Project12.vcxproj|solutionrelative:Project12\\test12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test12.c",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project12\\Project12\\test12.c",
+              "RelativeDocumentMoniker": "Project12\\test12.c",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project12\\Project12\\test12.c",
+              "RelativeToolTip": "Project12\\test12.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-28T17:16:39.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8FD6B-EC57-4055-8B43-CC6B2AEF2786}|Project14\\Project14.vcxproj|C:\\Users\\admin\\source\\repos\\Project14\\Project14\\test14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F8FD6B-EC57-4055-8B43-CC6B2AEF2786}|Project14\\Project14.vcxproj|solutionrelative:Project14\\test14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test14.c",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project14\\Project14\\test14.c",
+              "RelativeDocumentMoniker": "Project14\\test14.c",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project14\\Project14\\test14.c",
+              "RelativeToolTip": "Project14\\test14.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-28T17:33:43.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

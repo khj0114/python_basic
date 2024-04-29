@@ -1,0 +1,2 @@
+﻿  test16.c
+C:\Users\admin\source\repos\Project16\Project16\test16.c(8,2): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.

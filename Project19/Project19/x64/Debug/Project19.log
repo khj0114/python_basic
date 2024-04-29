@@ -1,0 +1,8 @@
+﻿  test19.c
+C:\Users\admin\source\repos\Project19\Project19\test19.c(15,36): warning C4101: 'intD' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\source\repos\Project19\Project19\test19.c(15,30): warning C4101: 'intC' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\source\repos\Project19\Project19\test19.c(19,26): error C2059: 구문 오류: ','
+C:\Users\admin\source\repos\Project19\Project19\test19.c(20,8): error C2065: 'iVar4': 선언되지 않은 식별자입니다.
+C:\Users\admin\source\repos\Project19\Project19\test19.c(21,8): error C2065: 'iVar5': 선언되지 않은 식별자입니다.
+C:\Users\admin\source\repos\Project19\Project19\test19.c(23,29): error C2065: 'iVar4': 선언되지 않은 식별자입니다.
+C:\Users\admin\source\repos\Project19\Project19\test19.c(23,36): error C2065: 'iVar5': 선언되지 않은 식별자입니다.

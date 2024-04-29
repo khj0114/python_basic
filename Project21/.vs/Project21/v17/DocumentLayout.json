@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Developer\\source\\repos\\Project21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1B9249-2570-4A2F-B781-659DEF52B0D4}|Project21\\Project21.vcxproj|C:\\Users\\admin\\Desktop\\Developer\\source\\repos\\Project21\\Project21\\test21.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B1B9249-2570-4A2F-B781-659DEF52B0D4}|Project21\\Project21.vcxproj|solutionrelative:Project21\\test21.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test21.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Developer\\source\\repos\\Project21\\Project21\\test21.c",
+              "RelativeDocumentMoniker": "Project21\\test21.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Developer\\source\\repos\\Project21\\Project21\\test21.c",
+              "RelativeToolTip": "Project21\\test21.c",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T12:36:38.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

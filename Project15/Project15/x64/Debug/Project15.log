@@ -1,0 +1,7 @@
+﻿  test15.c
+C:\Users\admin\source\repos\Project15\Project15\test15.c(14,19): error C2065: 'chArray2': 선언되지 않은 식별자입니다.
+C:\Users\admin\source\repos\Project15\Project15\test15.c(14,11): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\admin\source\repos\Project15\Project15\test15.c(14,11): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\admin\source\repos\Project15\Project15\test15.c(15,38): error C2065: 'chArray2': 선언되지 않은 식별자입니다.
+C:\Users\admin\source\repos\Project15\Project15\test15.c(15,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\admin\source\repos\Project15\Project15\test15.c(15,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
